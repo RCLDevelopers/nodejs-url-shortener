@@ -1,0 +1,6 @@
+
+**Installation**
+
+- Insert your mongoURI under keys.js
+- npm install
+- npm start
